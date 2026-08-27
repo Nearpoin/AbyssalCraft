@@ -648,7 +648,7 @@ ac.ritual.depthsLeggings.desc=深海のレギンスは、純化コラリウム�
 ac.ritual.depthsBoots=深海のブーツ
 ac.ritual.depthsBoots.desc=深海のブーツは、純化コラリウムブーツとコラリウムジェムクラスター2個（9個の塊）、コラリウムに侵された肉、変異の宝石、スイレンの葉、ツタ、液体コラリウムバケツを使って作成できる。
 ac.ritual.dreadSpawn=進化の儀式
-ac.ritual.dreadSpawn.desc=付近にいるすべてのドレッドスポーン（真価段階を問わず）が複製され、分裂する。ドレッドフラグメント、ドレッドストーン、アビサライトストーン、ドレッドランドのショゴス肉、革、腐った肉、穢されたアビサライトシャード、アビサライトインゴットを使用する。
+ac.ritual.dreadSpawn.desc=付近にいるすべてのドレッドスポーン（進化段階を問わず）が複製され、分裂する。ドレッドフラグメント、ドレッドストーン、アビサライトストーン、ドレッドランドのショゴス肉、革、腐った肉、穢されたアビサライトシャード、アビサライトインゴットを使用する。
 ac.ritual.corPotionAoE=コラリウム病感染の儀式
 ac.ritual.corPotionAoE.desc=近くのモブにコラリウム病の効果を与える。コラリウムに侵された肉を4個、水の瓶を3個、火薬を使用する。
 ac.ritual.drePotionAoE=ドレッド病感染の儀式
@@ -977,7 +977,7 @@ itemGroup.acctools=AbyssalCraft: 戦闘
 itemGroup.acfood=AbyssalCraft: 食料
 itemGroup.acdblocks=AbyssalCraft: 装飾ブロック
 itemGroup.accrystals=AbyssalCraft: クリスタル
-itemGroup.accoins=Abyssalcraft: コイン
+itemGroup.accoins=AbyssalCraft: コイン
 itemGroup.acspells=AbyssalCraft: スペル
 
 #液体名  Fluids
